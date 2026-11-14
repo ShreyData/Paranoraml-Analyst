@@ -1,0 +1,6 @@
+{
+  "name": "NullHypothesis Lab",
+  "description": "Evidence-based scientific, neurobiological, and mathematical investigation console for anomalous mind-environment phenomena in humans and animals.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
